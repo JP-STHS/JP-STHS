@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jp-sometrollshavestandards" alt="jp-sometrollshavestandards" /></a> </p>
 
-- 🔭 I’m currently working on [an independent Godot game!](https://github.com/JP-SomeTrollsHaveStandards/Github-Programming-projects/tree/Sleeves)
+- 🔭 I’m currently working on a godot game for a college club and my own [independent Godot game!](https://github.com/JP-SomeTrollsHaveStandards/Github-Programming-projects/tree/Sleeves)
 
 - 🌱 I’m currently learning **gdscript, data structures, and algorithms**
 
