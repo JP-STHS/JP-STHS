@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JP-STHS&label=Profile%20views&color=0e75b6&style=flat" alt="JP-STHS" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JP-STHS" alt="JP-STHS" /></a> </p>
 
 - 🔭 I’m currently working on a godot game for a college club and my own [independent Godot game!](https://github.com/JP-STHS/Github-Programming-projects/tree/Sleeves)
 
