@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a godot game for a college club and my own [independent Godot game!](https://github.com/JP-STHS/Github-Programming-projects/tree/Sleeves)
 
-- 🌱 I’m currently learning **gdscript, data structures, and algorithms**
+- 🌱 I’m currently learning **gdscript, and how to use OpenCV Python 😏**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JP-STHS/Github-Programming-projects/tree/main](https://github.com/JP-STHS/Github-Programming-projects/tree/main)
 
