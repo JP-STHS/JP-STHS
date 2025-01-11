@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JP-STHS&label=Profile%20views&color=0e75b6&style=flat" alt="JP-STHS" /> </p>
 
 
-- 🔭 I’m currently working on a godot game for a college club and my own [independent Godot game!](https://github.com/JP-STHS/Github-Programming-projects/tree/Sleeves)
+- 🔭 I’m currently working on a godot game for a college club and my own [independent game!](https://github.com/JP-STHS/Github-Programming-projects/tree/Sleeves)
 
-- 🌱 I’m currently learning **gdscript, and how to use OpenCV Python 😏**
+- 🌱 I’m currently learning **gdscript, and how to use YOLO in Python 😏**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JP-STHS/Github-Programming-projects/tree/main](https://github.com/JP-STHS/Github-Programming-projects/tree/main)
 
