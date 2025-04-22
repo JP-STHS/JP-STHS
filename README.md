@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JP-STHS&label=Profile%20views&color=0e75b6&style=flat" alt="JP-STHS" /> </p>
 
 
-- 🔭 I’m currently working on building a license plate scanner and my own [independent game!](https://github.com/JP-STHS/Github-Programming-projects/tree/Sleeves)
+- 🔭 I’m currently working on building a license plate scanner and my own [independent game!](https://github.com/JP-STHS/Sleeves)
 
 - 🌱 I’m currently learning **JavaScript, and how to use YOLO in Python 😏**
 
