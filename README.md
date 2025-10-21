@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JP-STHS/Github-Programming-projects/tree/main](https://github.com/JP-STHS/Github-Programming-projects/tree/main)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other profiles:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/buildinggood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buildinggood" height="30" width="40" /></a>
 </p>
