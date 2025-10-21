@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
-<h3 align="center">A passionate Computer Science student!</h3>
+<h3 align="center">Computer Science & Cybersecurity Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JP-STHS&label=Profile%20views&color=0e75b6&style=flat" alt="JP-STHS" /> </p>
 
 
-- 🔭 I’m currently working on building a license plate scanner using Ultralytics in Docker
-
-- 🌱 I’m currently learning **JavaScript, and how to use Ultralytics in Docker 😏**
+- 🔭 I’m currently working on my senior capstone, a finance app
 
 - 👨‍💻 All of my projects are available at [https://github.com/JP-STHS/Github-Programming-projects/tree/main](https://github.com/JP-STHS/Github-Programming-projects/tree/main)
 
