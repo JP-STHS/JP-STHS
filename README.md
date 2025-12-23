@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on my senior capstone: A finance app!
 
-- 👨‍💻 All of my projects are available at [https://github.com/JP-STHS/Github-Programming-projects/tree/main](https://github.com/JP-STHS/Github-Programming-projects/tree/main)
-
+- 👨‍💻 All of my projects are available [https://github.com/JP-STHS?tab=repositories](here).
 <h3 align="left">Other profiles:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/buildinggood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="buildinggood" height="30" width="40" /></a>
