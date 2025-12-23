@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JP-STHS&label=Profile%20views&color=0e75b6&style=flat" alt="JP-STHS" /> </p>
 
 
-- 🔭 I’m currently working on my senior capstone: A finance app!
+- 🔭 I’m currently working on an app for tracking license plates.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/JP-STHS?tab=repositories).
 
