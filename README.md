@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my senior capstone: A finance app!
 
-- 👨‍💻 All of my projects are available [here](https://github.com/JP-STHS/Github-Programming-projects/tree/main).
+- 👨‍💻 All of my projects are available [here](https://github.com/JP-STHS?tab=repositories).
 
 <h3 align="left">Other profiles:</h3>
 <p align="left">
